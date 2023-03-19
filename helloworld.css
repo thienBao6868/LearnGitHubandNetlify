@@ -1,0 +1,13 @@
+h1 span {
+  color: blueviolet;
+}
+body {
+  text-align: center;
+  padding: 30vh;
+  margin: auto;
+  font-size: 25px;
+}
+.style {
+  color: blueviolet;
+  text-transform: uppercase;
+}
